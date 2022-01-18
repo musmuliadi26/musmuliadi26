@@ -1,9 +1,7 @@
-### Hi👋 I'm Musmuliadi
-
 <p align="center">
 <a href="https://github.com/smbrang">
-  <img height="180em" width="380em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smbrang&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="380em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smbrang&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width="380em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=musmuliadi26&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="380em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=musmuliadi26&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <!-- 
